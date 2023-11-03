@@ -1,6 +1,6 @@
 # HR Dashboard in Power BI
 
-Welcome to the Human Resources Dashboard in Power BI. This repository contains a Power BI dashboard, report, and dataset designed to provide insights and analytics for HR professionals. This tool is particularly useful for organizations that want to have a consistent reporting model for their HR department across different companies, regardless of industry or size.
+Welcome to the Human Resources Dashboard in Power BI. This repository contains a Power BI dashboard and report designed to provide insights and analytics for HR professionals. This tool is particularly useful for organizations that want to have a consistent reporting model for their HR department across different companies, regardless of industry or size.
 
 ## Overview
 
@@ -53,20 +53,16 @@ To utilize this HR Dashboard, you'll need:
 
 Feel free to customize the dashboard to fit your specific needs. You can add additional data sources, modify existing visualizations, or create new ones to meet your HR reporting requirements.
 
-## Contribution
-
-Contributions to this project are welcome. If you have ideas for improvements, additional features, or bug fixes, please submit a pull request or open an issue.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-We would like to acknowledge the Power BI community and its contributors for providing valuable resources and guidance on creating effective HR dashboards.
+I would like to acknowledge the Power BI community and its contributors for providing valuable resources and guidance on creating effective HR dashboards.
 
 ## Disclaimer
 
 The HR Dashboard in Power BI is a tool to assist in HR analytics and reporting. It is not a replacement for professional HR expertise and decision-making. Always consult with HR professionals and legal advisors for critical HR decisions.
 
-Thank you for using the HR Dashboard in Power BI. We hope it helps you gain valuable insights into your organization's HR data and make informed decisions to support your workforce effectively.
+Thank you for using the HR Dashboard in Power BI. I hope it helps you gain valuable insights into your organization's HR data and make informed decisions to support your workforce effectively.
